@@ -339,7 +339,7 @@ main {
 
 }
 
-@media (max-width: 760px) {
+@media (max-width: 480px) {
   .history-columns {
     grid-template-columns: 1fr;
     gap: 26px;
